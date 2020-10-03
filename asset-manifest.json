@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/instaltecdeploy/static/css/main.b69f3d14.chunk.css",
+    "main.js": "/instaltecdeploy/static/js/main.e4ee3c02.chunk.js",
+    "main.js.map": "/instaltecdeploy/static/js/main.e4ee3c02.chunk.js.map",
+    "runtime-main.js": "/instaltecdeploy/static/js/runtime-main.d3705cda.js",
+    "runtime-main.js.map": "/instaltecdeploy/static/js/runtime-main.d3705cda.js.map",
+    "static/js/2.9b9fbcbe.chunk.js": "/instaltecdeploy/static/js/2.9b9fbcbe.chunk.js",
+    "static/js/2.9b9fbcbe.chunk.js.map": "/instaltecdeploy/static/js/2.9b9fbcbe.chunk.js.map",
+    "index.html": "/instaltecdeploy/index.html",
+    "precache-manifest.d6228b3cf93a424f9881cc7b6fd4ac8a.js": "/instaltecdeploy/precache-manifest.d6228b3cf93a424f9881cc7b6fd4ac8a.js",
+    "service-worker.js": "/instaltecdeploy/service-worker.js",
+    "static/css/main.b69f3d14.chunk.css.map": "/instaltecdeploy/static/css/main.b69f3d14.chunk.css.map",
+    "static/js/2.9b9fbcbe.chunk.js.LICENSE.txt": "/instaltecdeploy/static/js/2.9b9fbcbe.chunk.js.LICENSE.txt",
+    "static/media/agency.css": "/instaltecdeploy/static/media/Grupo6.c6f55900.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3705cda.js",
+    "static/js/2.9b9fbcbe.chunk.js",
+    "static/css/main.b69f3d14.chunk.css",
+    "static/js/main.e4ee3c02.chunk.js"
+  ]
+}
