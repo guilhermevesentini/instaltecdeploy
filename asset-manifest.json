@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/instaltecdeploy/static/css/main.b69f3d14.chunk.css",
-    "main.js": "/instaltecdeploy/static/js/main.39a92d32.chunk.js",
-    "main.js.map": "/instaltecdeploy/static/js/main.39a92d32.chunk.js.map",
+    "main.js": "/instaltecdeploy/static/js/main.92cdef9b.chunk.js",
+    "main.js.map": "/instaltecdeploy/static/js/main.92cdef9b.chunk.js.map",
     "runtime-main.js": "/instaltecdeploy/static/js/runtime-main.d3705cda.js",
     "runtime-main.js.map": "/instaltecdeploy/static/js/runtime-main.d3705cda.js.map",
-    "static/js/2.2df00d07.chunk.js": "/instaltecdeploy/static/js/2.2df00d07.chunk.js",
-    "static/js/2.2df00d07.chunk.js.map": "/instaltecdeploy/static/js/2.2df00d07.chunk.js.map",
+    "static/js/2.f3d78b99.chunk.js": "/instaltecdeploy/static/js/2.f3d78b99.chunk.js",
+    "static/js/2.f3d78b99.chunk.js.map": "/instaltecdeploy/static/js/2.f3d78b99.chunk.js.map",
     "index.html": "/instaltecdeploy/index.html",
-    "precache-manifest.aacd9402ef00d693c99b5942c0605763.js": "/instaltecdeploy/precache-manifest.aacd9402ef00d693c99b5942c0605763.js",
+    "precache-manifest.427b55d25105073b6e103ecfaeff06fe.js": "/instaltecdeploy/precache-manifest.427b55d25105073b6e103ecfaeff06fe.js",
     "service-worker.js": "/instaltecdeploy/service-worker.js",
     "static/css/main.b69f3d14.chunk.css.map": "/instaltecdeploy/static/css/main.b69f3d14.chunk.css.map",
-    "static/js/2.2df00d07.chunk.js.LICENSE.txt": "/instaltecdeploy/static/js/2.2df00d07.chunk.js.LICENSE.txt",
+    "static/js/2.f3d78b99.chunk.js.LICENSE.txt": "/instaltecdeploy/static/js/2.f3d78b99.chunk.js.LICENSE.txt",
     "static/media/agency.css": "/instaltecdeploy/static/media/Grupo6.c6f55900.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3705cda.js",
-    "static/js/2.2df00d07.chunk.js",
+    "static/js/2.f3d78b99.chunk.js",
     "static/css/main.b69f3d14.chunk.css",
-    "static/js/main.39a92d32.chunk.js"
+    "static/js/main.92cdef9b.chunk.js"
   ]
 }
