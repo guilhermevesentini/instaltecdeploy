@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9021e0bfb35b619f5c5926e772c8a130",
+    "revision": "324a834ca37ae455373bd08926f93a4b",
     "url": "/instaltecdeploy/index.html"
   },
   {
-    "revision": "5496f77d650beffd5061",
+    "revision": "2799884797ec8917667e",
     "url": "/instaltecdeploy/static/css/main.b69f3d14.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/instaltecdeploy/static/js/2.9b9fbcbe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5496f77d650beffd5061",
-    "url": "/instaltecdeploy/static/js/main.9bb46f18.chunk.js"
+    "revision": "2799884797ec8917667e",
+    "url": "/instaltecdeploy/static/js/main.66638823.chunk.js"
   },
   {
     "revision": "0a93bd96f41866e1bab2",
