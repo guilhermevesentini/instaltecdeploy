@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/instaltecdeploy/static/css/main.b69f3d14.chunk.css",
-    "main.js": "/instaltecdeploy/static/js/main.c248010f.chunk.js",
-    "main.js.map": "/instaltecdeploy/static/js/main.c248010f.chunk.js.map",
+    "main.js": "/instaltecdeploy/static/js/main.39a92d32.chunk.js",
+    "main.js.map": "/instaltecdeploy/static/js/main.39a92d32.chunk.js.map",
     "runtime-main.js": "/instaltecdeploy/static/js/runtime-main.d3705cda.js",
     "runtime-main.js.map": "/instaltecdeploy/static/js/runtime-main.d3705cda.js.map",
     "static/js/2.2df00d07.chunk.js": "/instaltecdeploy/static/js/2.2df00d07.chunk.js",
     "static/js/2.2df00d07.chunk.js.map": "/instaltecdeploy/static/js/2.2df00d07.chunk.js.map",
     "index.html": "/instaltecdeploy/index.html",
-    "precache-manifest.6270aacff338c9b3df5f23f38d1486e7.js": "/instaltecdeploy/precache-manifest.6270aacff338c9b3df5f23f38d1486e7.js",
+    "precache-manifest.aacd9402ef00d693c99b5942c0605763.js": "/instaltecdeploy/precache-manifest.aacd9402ef00d693c99b5942c0605763.js",
     "service-worker.js": "/instaltecdeploy/service-worker.js",
     "static/css/main.b69f3d14.chunk.css.map": "/instaltecdeploy/static/css/main.b69f3d14.chunk.css.map",
     "static/js/2.2df00d07.chunk.js.LICENSE.txt": "/instaltecdeploy/static/js/2.2df00d07.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d3705cda.js",
     "static/js/2.2df00d07.chunk.js",
     "static/css/main.b69f3d14.chunk.css",
-    "static/js/main.c248010f.chunk.js"
+    "static/js/main.39a92d32.chunk.js"
   ]
 }
