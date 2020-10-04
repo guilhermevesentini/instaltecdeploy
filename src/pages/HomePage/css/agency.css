@@ -1,0 +1,127 @@
+.container {
+  max-width: 960px;
+}
+/*
+ * Custom translucent site header
+ */
+
+.site-header {
+  background-color: rgba(0, 0, 0, .85);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a {
+  color: #999;
+  transition: ease-in-out color .15s;
+}
+.site-header a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/*
+ * Dummy devices (replace them with your own or something else entirely!)
+ */
+
+.content-hero {
+  position: relative;
+  width: 100%;
+  align-items: center;
+  padding-top: 3%;
+}
+.product-device {
+  position: relative;
+  float: right;
+  width: 310px;
+  content: url(../img/Grupo6.png);  
+  margin-right: 15%;
+}
+.text-content {
+  width: 40%;
+  height: 300px;
+  padding: 20px;
+  margin-left: 15%;
+}
+
+@media (max-width: 1018px) {
+  .content-hero {
+    max-width: 100%;
+    height: 80vh;
+  }
+}
+@media (max-width: 1018px) {
+  .hero-block {
+    max-width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+  }
+}
+@media (min-width: 1018px) {
+  .content-hero {
+    max-width: 100%;
+    height: 80vh;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    margin: 0px 20px;
+  }
+}
+/*
+ * Extra utilities
+ */
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+.flex-equal > * {
+  -ms-flex: 1;
+  -webkit-box-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    flex: 1;
+  }
+}
+
+.overflow-hidden { overflow: hidden; }
+
+
+/* Featurettes
+------------------------- */
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+  align-items: center;
+}
+.featurette {
+  height: 100vh;
+  padding: 5%;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}

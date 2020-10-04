@@ -1,0 +1,19 @@
+steps:
+- name: 'gcr.io/cloud-builders/yarn'
+  args: ['install','--ignore-engines']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/instaltec-263206/instaltec-front', '.']
+- name: 'gcr.io/cloud-builders/gcloud'
+  args:
+    - 'run'
+    - 'deploy'
+    - 'instaltec-frontend'
+    - '--image'
+    - 'gcr.io/instaltec-263206/instaltec-front:latest'
+    - '--region'
+    - 'us-central1'
+    - '--platform'
+    - 'managed'
+    - '--allow-unauthenticated'
+
+images: ['gcr.io/instaltec-263206/instaltec-front']
