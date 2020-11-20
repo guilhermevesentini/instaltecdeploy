@@ -19,7 +19,7 @@ export default class Home extends Component {
                         <a className="py-2 d-none d-md-inline-block" href="#"></a>
                         <a className="py-2 d-none d-md-inline-block" href="#"></a>
                         <a className="py-2 d-none d-md-inline-block" href="#"></a>
-                        <a className="py-3 d-none d-md-inline-block" ><Link to= "/Login"> Login <i className="fas fa-user" /></Link></a>
+                        <a className="py-3 d-none d-md-inline-block" href="/instaltecdeploy">Login <i className="fas fa-user" /></a>
 
                     </div>
                 </nav>
