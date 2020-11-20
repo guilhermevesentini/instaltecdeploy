@@ -31,7 +31,7 @@ const Routes = () => (
   <BrowserRouter >
     <Switch>
       <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />    
-      <Route path={process.env.PUBLIC_URL + "/Login"} component={Login} />     
+      <Route path={process.env.PUBLIC_URL + '/Login'} component={Login} />     
       <Route path={process.env.PUBLIC_URL + '/Dashboard'} component={Dashboard} />
       <Route path="/Login" component={Login} />
       <Route path="/verification" component={RegisterConfirm} />
