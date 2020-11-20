@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import "./css/agency.css";
+import { Route, Link } from "react-router-dom";
 //
 
 export default class Home extends Component {
@@ -18,7 +19,7 @@ export default class Home extends Component {
                         <a className="py-2 d-none d-md-inline-block" href="#"></a>
                         <a className="py-2 d-none d-md-inline-block" href="#"></a>
                         <a className="py-2 d-none d-md-inline-block" href="#"></a>
-                        <a className="py-3 d-none d-md-inline-block" href="/Login">Login <i className="fas fa-user" /></a>
+                        <a className="py-3 d-none d-md-inline-block" ><Link to= "/Login"> Login <i className="fas fa-user" /></Link></a>
 
                     </div>
                 </nav>
